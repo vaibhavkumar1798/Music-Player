@@ -63,7 +63,7 @@ a {
 	animation-iteration-count: infinite;
 }
 /* website function */
-.website-name h2,h6 {
+.website-name h4 {
 	color: rgb(80, 220, 255);
 }
 /* website title and general description */
